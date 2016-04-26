@@ -1,6 +1,25 @@
 # :trollface: react-workout :bowling:
 ## Objective
-**React** to build a workout web app
+Using **React.js** to build a workout web app
+
+## How to use
+
+###Login
+![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/login.jpg)
+###Logout
+![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/logout.jpg)
+###Go to Dashboard
+![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/dashboard.jpg)
+###View food
+![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/food.jpg)
+###View your schedule
+![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/schedule.jpg)
+###View Leader board
+![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/leaderboard.jpg)
+
+
+
+##Run this app on your local machine
 
 1. install [*NODEJS*](https://nodejs.org/en/download/) first, select the version that matches your environment, then go to the directory of the project ($pwd=(/\w\+/)?react-workout)
 2. install dependencies
