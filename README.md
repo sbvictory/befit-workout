@@ -11,8 +11,11 @@ This is an workout web app which tells user about some useful workout informatio
 
 ###Login
 There are several test users for you:
+
 1. username: jimmy, pwd: jimmy
+
 2. username: belle, pwd: belle
+
 ![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/login.jpg)
 ###Logout
 ![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/logout.jpg)
@@ -29,7 +32,7 @@ There are several test users for you:
 
 ##Run this app on your local machine
 
-1. install [*NODEJS*](https://nodejs.org/en/download/) first, select the version that matches your environment, then go to the directory of the project ($pwd=(/\w\+/)?react-workout)
+1. install [*NODEJS*](https://nodejs.org/en/download/) first, select the version that matches your environment, then go to the directory of the project.
 2. install dependencies
 
   ```sh
