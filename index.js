@@ -7,13 +7,8 @@ import Dashboard from './components/Dashboard.js';
 import Logout from './components/auth/Logout';
 import Login from './components/auth/Login';
 import App from './components/App.js';
-import Category from './components/sidebar/Category';
-import CategorySidebar from './components/sidebar/CategorySidebar';
-import Item from './components/sidebar/Item';
 import Schedule from './components/Schedule';
 import Leadboard from './components/leadboard/Leadboard';
-import Pie from './components/leadboard/Pie'
-import Area from './components/leadboard/Area'
 import HBar from './components/leadboard/HBar'
 
 function requireAuth(nextState, replace) {

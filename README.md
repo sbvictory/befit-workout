@@ -2,9 +2,17 @@
 ## Objective
 Using **React.js** to build a workout web app
 
+## Introduction
+This is a database course (CS 542) project. Teacher requires us to write an app that can connect to database and execute some sql queries. Beyond the basic requirements, I am trying to use some new technologies like React.js.
+
+This is an workout web app which tells user about some useful workout information.
+
 ## How to use
 
 ###Login
+There are several test users for you:
+1. username: jimmy, pwd: jimmy
+2. username: belle, pwd: belle
 ![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/login.jpg)
 ###Logout
 ![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/logout.jpg)
@@ -12,7 +20,7 @@ Using **React.js** to build a workout web app
 ![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/dashboard.jpg)
 ###View food
 ![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/food.jpg)
-###View your schedule
+###View your workout schedule
 ![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/schedule.jpg)
 ###View Leader board
 ![image](https://github.com/sbvictory/befit-workout/blob/master/readmeimages/leaderboard.jpg)
@@ -59,9 +67,3 @@ Using **React.js** to build a workout web app
 
 OR, by posting issues on [here](https://github.com/sbvictory/react-workout/issues)
 
-
-## **TODO** list
-- [ ] REST architecture
-- [ ] Unit testing
-- [ ] MongoDB
-- [x] ~~gulp~~
