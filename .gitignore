@@ -3,4 +3,3 @@ node_modules
 npm-debug.log
 public/build/bundle.js
 .DS_Store
-*.s[a-w][a-z]
